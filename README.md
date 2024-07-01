@@ -1,4 +1,4 @@
-# Vehicle Type Prediction CNN Model
+# CNN Model ~ Vehicle Type Prediction
 
 I used a personal dataset to train our model and put it in the 'VehicleImages' folder. It has around 25k images consisting of buses, cars, and motorcycles. 
 
