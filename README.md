@@ -5,7 +5,7 @@ I used a personal dataset to train our model and put it in the 'VehicleImages' f
 Successfully achieved a <b>96% accuracy</b>.
 
 ## Impact
-The CNN model I have built has the potential to solve everyday road issues. With the ability to predict between types of vehicles, it can be made simpler to avoid congestion in certain parts of a location. For
+The CNN model I have built has the potential to solve everyday road transport issues. With the ability to predict between types of vehicles, it can be made simpler to avoid congestion in certain parts of a location. For
 example, some roads are clearly stated for only buses to drive on hence allowing them to be on their scheduled time. However, sometimes to skip the traffic often cars and motorcycles take such restricted
 roads. Utilizing the model, we can fix this problem by stopping other vehicle types from entering or imposing fines as a measurement to prevent unnecessary traffic congestion.
 
